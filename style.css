@@ -101,7 +101,7 @@ button[disabled] {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  border: none;
+  /* border: none; */
   display: block;
   width: 100%;
   padding-top: 15px;
@@ -115,7 +115,7 @@ button[disabled] {
   border: 2px dashed #c0c7cf;
   border-radius: 6px;
   resize: none;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 @media (max-width: 690px) {
