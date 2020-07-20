@@ -3,9 +3,10 @@
 The user inputs parameters for the password - password length, characters used - and the application generates a password of random characters that meets the user requirements.
 
 https://saramcguinn.github.io/PasswordGenerator/
+
 Github repo: https://github.com/saramcguinn/PasswordGenerator
 
-<img src="Assets/PasswordGeneratorScreenshot" width="400">
+<img src="Assets/PasswordGeneratorScreenshot.jpg" width="500">
 
 Things I learned/practiced:
 - concatenate arrays
@@ -13,6 +14,7 @@ Things I learned/practiced:
 - make text appear in the DOM using javascript
 - for loop
 - organization - isolating steps in separate functions
+- add image to README
 
 I added a "clear" button because it seemed useful. As a user, I would want the ability to clear the password from the screen so that the sensitive/personal information wasn't visible anymore.
 
